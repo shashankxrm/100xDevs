@@ -1,0 +1,9 @@
+Week 3.1 Middlewares, Global Catches & Zod
+ Notion--https://rb.gy/ewiuo1
+ Slides--https://d2szwvl7yo497w.cloudfront.net/cohort-2/3/Week+3.1.pdf
+
+Week 3.2 Authentication & Databases
+https://rb.gy/wpnb6o
+
+Week 3.5 Document Object Model (Laisha)
+https://rb.gy/2ipsxb
